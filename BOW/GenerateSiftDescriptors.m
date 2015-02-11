@@ -1,4 +1,4 @@
-function [] = GenerateSiftDescriptors2(opts,descriptor_opts)
+function [] = GenerateSiftDescriptors(opts,descriptor_opts)
 
 fprintf('Building Sift Descriptors\n\n');
 
