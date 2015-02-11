@@ -1,4 +1,4 @@
-function []=do_assignment2(opts,assignment_opts)
+function []=do_assignment(opts,assignment_opts)
 ini;
 display('Computing assignments');
 assign_flag=1;
