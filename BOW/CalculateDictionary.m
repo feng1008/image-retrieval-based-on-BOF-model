@@ -1,4 +1,4 @@
-function [ ] = CalculateDictionary2(opts, dictionary_opts)
+function [ ] = CalculateDictionary(opts, dictionary_opts)
 
 fprintf('Building Dictionary using Training Data\n\n');
 
